@@ -1,1 +1,1 @@
-Criação do arquivo readme.
+Edição do arquivo readme.
